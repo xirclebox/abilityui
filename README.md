@@ -1,2 +1,2 @@
-# abilityui
-An accessible component library
+# AbilityUI
+An accessible component library.
